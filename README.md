@@ -16,4 +16,4 @@ A Java-based desktop application developed using Swing and MySQL to manage vendo
 - JDBC (Java Database Connectivity)
 
 ## 📁 Project Structure
-
+src/ ├── MainFrame.java # Main navigation menu ├── Vendor.java # Vendor CRUD operations ├── Product.java # Product CRUD with vendor association ├── Order.java # Order placement and validation ├── Transaction.java # Payment and transaction history
